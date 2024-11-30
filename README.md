@@ -40,7 +40,7 @@ Follow these steps to install and run the project locally:
 1. **Clone the repository**:  
     Use the following command to clone the project repository to your local machine:  
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/shivlalsharma/to-do-list.git
     cd to-do-list
     ```
 
